@@ -1,0 +1,10 @@
+# Using the + operator
+string1 = "Hello"
+string2 = "World"
+result = string1 + " " + string2
+print("Result using + operator:", result)
+
+# Using the += operator
+string3 = "Hello"
+string3 += " World"
+print("Result using += operator:", string3)
